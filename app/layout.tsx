@@ -12,7 +12,7 @@ import "./globals.css";
 // ...then add `${display.variable} ${body.variable}` to the <body> className below.
 
 export const metadata: Metadata = {
-  title: "Sri Sai Enterprises — Construction & Engineering",
+  title: "Sri Sai Enterprises – Construction & Engineering",
   description:
     "Sri Sai Enterprises is a construction and engineering firm building stronger communities since 2008. Commercial, residential, civil and infrastructure projects delivered on time and on budget.",
   keywords: [
@@ -23,6 +23,9 @@ export const metadata: Metadata = {
     "civil infrastructure",
     "Sri Sai Enterprises",
   ],
+  icons: {
+    icon: "/srisaienterpries_logo.svg", 
+  },
 };
 
 export default function RootLayout({
