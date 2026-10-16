@@ -85,7 +85,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-2.5 text-sm text-white/60">
                 <MapPin size={15} className="mt-0.5 shrink-0 text-amber" />
-                123 Construction Ave, New York, NY 10001
+             Parsiguta,Secunderabad,Hyderabad,Telanagna,500061
               </li>
             </ul>
           </div>

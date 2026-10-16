@@ -7,8 +7,8 @@ import { Star, ChevronLeft, ChevronRight } from "lucide-react";
 const TESTIMONIALS = [
   {
     quote:
-      "Mohan and the team handled our home construction with great care. From the initial planning to the final finishing, communication was clear and the quality of work was excellent.",
-    name: "Mohan",
+      "Ramulu and the team handled our home construction with great care. From the initial planning to the final finishing, communication was clear and the quality of work was excellent.",
+    name: "Ramulu",
     role: "Homeowner, Hyderabad",
   },
   {
